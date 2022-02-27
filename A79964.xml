@@ -1,0 +1,169 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Cleaveland's petition to His Highnesse the Lord Protector</title>
+            <author>Cleveland, John, 1613-1658.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1657</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79964</idno>
+            <idno type="STC">Wing C4683aA</idno>
+            <idno type="STC">ESTC R176585</idno>
+            <idno type="EEBO-CITATION">99895889</idno>
+            <idno type="PROQUEST">99895889</idno>
+            <idno type="VID">153442</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79964)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153442)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2365:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Cleaveland's petition to His Highnesse the Lord Protector</title>
+                  <author>Cleveland, John, 1613-1658.</author>
+               </titleStmt>
+               <extent>15, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1657?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: Jo: Cleaveland.</note>
+                  <note>Identified as Wing C4683aA, reel 2365, of the UMI microfilm set "Early English books 1641-1700".</note>
+                  <note>Cf. Wing C4683aA which has "P[r]otector" in the title.</note>
+                  <note>Imprint from Wing C4683aA.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Debt, Imprisonment for --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb facs="tcp:153442:1"/>
+            <pb n="1" facs="tcp:153442:1"/>
+            <head>
+               <hi>CLEAVELAND'S</hi> PETITION To His HIGHNESSE THE LORD PROTECTOR.</head>
+            <opener>May it pleaſe your Highneſs,</opener>
+            <p>RUlers within the Circle of their Government have a claim to that which is ſaid of the Deity, <hi>They have their Center every where, and their Cir<g ref="char:EOLhyphen"/>cumference no where.</hi> It is in this confi<g ref="char:EOLhyphen"/>dence that I addreſs to your <hi>Highneſs,</hi> as knowing no place in the Nation is ſo remote, as not to ſhare in the ubiquity of your care; no Priſon ſo cloſe, as
+<pb n="2" facs="tcp:153442:2"/>
+to ſhut me up from partaking of your influence. My <hi>Lord,</hi> it is my misfortune, that after ten years of retirement from being ingaged in the difference of the State, having wound my ſelfe up in a private receſs, and my comportment to the publique, being ſo inoffenſive, that in all this time, neither feares nor jea<g ref="char:EOLhyphen"/>louſies have ſcrupled at my Actions: Being about three moneths ſince at <hi>Nor<g ref="char:EOLhyphen"/>wich,</hi> I was fetched with a guard before the Commiſſioners, and ſent Priſoner to <hi>Yarmouth,</hi> and if it be not a new of<g ref="char:EOLhyphen"/>fence to make inquiry wherein I offend<g ref="char:EOLhyphen"/>ed (for hitherto my faults are kept as cloſe as my Perſon,) I am induced to believe, that next to the adherence to the Royal party, the cauſe of my con<g ref="char:EOLhyphen"/>finement is the narrowneſs of my eſtate; <hi>for none ſtand committed whoſe eſtate can bail them;</hi> I onely am the Priſoner, who have no Acres to be my hoſtage. Now if my poverty be Criminal (with Reve<g ref="char:EOLhyphen"/>rence be it ſpoken,) I muſt implead your
+<pb n="3" facs="tcp:153442:2"/>
+               <hi>Highneſs,</hi> whoſe victorious Arms have reduc'd me to it, as acceſſary to my guilt. Let it ſuffice my Lord, that the calamity of the War hath made us poor; do not puniſh us for it! <hi>Who ever did Penance for being raviſhed?</hi> Is it not e<g ref="char:EOLhyphen"/>nough that we are ſtript ſo bare, but it muſt be made in order to a ſeverer Laſh? muſt our skars be engraven with new wounds? muſt we firſt be made Crip<g ref="char:EOLhyphen"/>ples, then beaten with our own Crutch<g ref="char:EOLhyphen"/>es? Poverty! if it be a fault, it is its own puniſhment; Who ſuffers for it more, pays Uſe upon uſe. I beſeech your <hi>Highneſs</hi> put ſome bounds to our over<g ref="char:EOLhyphen"/>throw, and do not purſue the chaſe to the other World; Can your thunder be levelled ſo low as our groveling Con<g ref="char:EOLhyphen"/>ditions? Can that towering Spirit that hath quarried upon Kingdoms make a ſtoop at us, who are the rubbiſh of thoſe ruines? Methinks! I hear your former Atchievments interceding with you not to ſully your glories, with trampling on
+<pb n="4" facs="tcp:153442:3"/>
+the proſtrate, nor Clog the wheels of your Chariot with ſo degenerous a Tri<g ref="char:EOLhyphen"/>umph. The moſt renowned <hi>Heroes</hi> have ever with ſuch tenderneſs cheriſhed their <hi>Captives,</hi> That their Swords did but cut out work for their courteſie; Thoſe that fell by their proweſs, ſprung up by their favours, as if they had ſtruck them down only to make them rebound the Higher. I hope your <hi>Highneſs</hi> as you are the Ri<g ref="char:EOLhyphen"/>val of their fame, will be no leſs of their vertues; the nobleſt Trophy that you can erect to your Honour is to raiſe the afflicted. And ſince you have ſubdued all oppoſition, it now remaines that you attach your ſelfe, and with Acts of Mildeneſſe vanquiſh your victory. It is not long ſince, <hi>my Lord,</hi> that you knock<g ref="char:EOLhyphen"/>ed off the Shackles from moſt of our party, and by a grand releaſe did ſpread your clemency as large as your territo<g ref="char:EOLhyphen"/>ries. Let not new proſcriptions inter<g ref="char:EOLhyphen"/>rupt our Jubile. Let not that your le<g ref="char:EOLhyphen"/>nity be ſlandered as the Ambuſh of your
+<pb n="5" facs="tcp:153442:3"/>
+further rigour. For the ſervice of his <hi>Majeſty</hi> (if it be objected) I am ſo far from excuſing it, that I am ready to al<g ref="char:EOLhyphen"/>ledge it in my vindication: I cannot con<g ref="char:EOLhyphen"/>ceive that my fidelity to my Prince ſhould taint me in your opinion; I ſhould rather expect it ſhould recom<g ref="char:EOLhyphen"/>mend me to your favour; Had not we been faithfull to our <hi>King,</hi> we could not have given our ſelves to be ſo to your <hi>Highneſs;</hi> you had then truſted us <hi>gra<g ref="char:EOLhyphen"/>tis,</hi> whereas now we have our former Loyalty to vouch us. You ſee my <hi>Lord,</hi> how much I preſume upon the greatneſs of your Spirit, that dare prevent my Indictment with ſo frank a Confeſſion, eſpecially in this, which I may ſo juſtly deny, that it is almoſt arrogancy in me to own it; for the truth is, I was not qualifi'd enough to ſerve him; all that I could doe, was to bear a part in his ſufferings, and give my ſelfe up to be cruſhed with his fall; thus my charge is double (my obedience to my Sove<g ref="char:EOLhyphen"/>raign,
+<pb n="6" facs="tcp:153442:4"/>
+and what is the reſult of that, my want of a fortune;) Now what ever re<g ref="char:EOLhyphen"/>flections I have on the former, I am a true penitent for the latter; My <hi>Lord</hi> you ſee my crimes! As to my defence you bear it about you; I ſhall plead no<g ref="char:EOLhyphen"/>thing in my juſtification, but your <hi>Highneſs</hi> Clemency, which as it is the conſtant inmate of a valiant breaſt, (If you graciouſly pleaſe to extend it to your Suppliant in taking me out of this withering durance,) your <hi>Highneſs</hi> will finde that mercy will eſtabliſh you more than power; though all the days of your life were as pregnant with victories, as your twice auſpicious third of <hi>Sep<g ref="char:EOLhyphen"/>tember.</hi>
+            </p>
+            <closer>
+               <signed>Your <hi>Highneſs</hi> humble, and ſubmiſſive Petitioner. <hi>J. C.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="7" facs="tcp:153442:4"/>
+            <head>TO The Earle OF <hi>WESTMORELAND.</hi>
+            </head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>IT were high preſumption not to be proud on this oc<g ref="char:EOLhyphen"/>caſion, and I ſhould be no leſſe then a Rebell to Elo<g ref="char:EOLhyphen"/>quence, if the lines you ſent me,
+<pb n="8" facs="tcp:153442:5"/>
+had not raiſed me above my ordi<g ref="char:EOLhyphen"/>nary Levell, ſo that to expreſſe my gratitude, I muſt renounce my humility, and purchaſe one vertue at the price of another: and well may my modeſty ſuffer in the ſer<g ref="char:EOLhyphen"/>vice, when my reaſon it ſelfe is o<g ref="char:EOLhyphen"/>verwhelmed with the favour. To ſee a perſon of your Lordſhips E<g ref="char:EOLhyphen"/>minence poſſeſt of Nobility by a double tenure of birth and braine ſo to bend his greatneſſe as to ſtoope to me, who live in the val<g ref="char:EOLhyphen"/>ley both of parts and fortune is ſo high an honour, that who right<g ref="char:EOLhyphen"/>ly conſiders it, if he be not ſtuped<g ref="char:EOLhyphen"/>ly ſenceleſs, will be ſenceleſſe with extaſy I for my part am loſt in a<g ref="char:EOLhyphen"/>mazement, and it is my intereſt
+<pb n="9" facs="tcp:153442:5"/>
+to be ſo; for not knowing other<g ref="char:EOLhyphen"/>wiſe how to give your preſent a fit reception, it is the beſt of my play to be beſides my ſelfe in the action; you ſee my Lord how I imply my ſelf of my native facul<g ref="char:EOLhyphen"/>ties to be ready for thoſe of your inſpiring; as the Prophets of old in a ſacred fury, ran out of their wits to make room for their die<g ref="char:EOLhyphen"/>ty. I ſhall not need hereafter to digeſt my conceptions, I ſhall ſpeak by inſtinct, for where you deſigned to viſit me with your lofty numbers, what was it elſe, but to make me the Prieſt to your Lordſhips oracle, ſuch is the ſtrength and ſpirits of your fancy, that me thought the Poem like
+<pb n="10" facs="tcp:153442:6"/>
+richeſt wine ſent forth the ſteam at the opening, what flowed from your braine fum'd into mine, it is almoſt impoſſible; to read your lines and be ſober you, you my Lord are the favourite of the Muſes, your ſtraine is ſo happy, and hath a reputation ſo faire and matchleſſe, as if you had a double key to the Temple of Honour to let in your ſelfe and exclude com<g ref="char:EOLhyphen"/>petitours. It is you my Lord who have cut the clouds and reacht perfection; who having mounted the cliffe lend an hand, to me who am labouring yet in the craggy aſ<g ref="char:EOLhyphen"/>cent; ſo powering are the praiſes you pleaſe to beſtow on me, and my deſerts ſo groveling that
+<pb n="11" facs="tcp:153442:6"/>
+to ſhew you my head is unworthy your height, 'tis not able to beare them, but it grows giddy with the praecipice: It paines me to be ſet upon the laſt of an Hyperbole, you do but crucify my tender merit thus to diſtend it at length and breadth: conſider I pray you that the leaneſt Endowments would be plump and full thus blowne up with a quill, and that there is none ſo dwarfiſh whom the rack would not ſtretch to a proper man: It is an excellent breathing for a puiſſant Wit to over-bare the world in defence of a Paradox, and a good Advocate will weather out a cauſe when there's neither truth nor tackle to
+<pb n="12" facs="tcp:153442:7"/>
+aſſiſt his invention. I perſwade my ſelf you had never undertaken to write my Panegyrick, but that you ſaw it was to combat the tide and to put there abilities to the utmoſt teſt in ſo unlucky a ſub<g ref="char:EOLhyphen"/>ject. Little do you thinke what ſtore of oppoſites your opini<g ref="char:EOLhyphen"/>on will breed you, for though you be ſo powerfull in the Art of perſwaſion, that ſhould you turne Apoſtate, there would need no more but to toll the Bell for re<g ref="char:EOLhyphen"/>ligion, yet this is an Hereſy where you ſtand alone, and like Scaeva in the breach with your ſingle valour duell an Army. And now my Lord if I be not miſtaken
+<pb n="13" facs="tcp:153442:7"/>
+I have found the motive that in<g ref="char:EOLhyphen"/>duced you to oblige me, you are tied by your order to give pro<g ref="char:EOLhyphen"/>tection to the weak and ſuccour<g ref="char:EOLhyphen"/>leſſe, ſo I muſt change my addreſ<g ref="char:EOLhyphen"/>ſes &amp; thank your red ribband for my commendations; ſuch and ſo many are the flowers of Rhetori<g ref="char:EOLhyphen"/>que you have heaped upon me, that I run the hazard of that O<g ref="char:EOLhyphen"/>limpick victor who was ſtifled with poſies caſt upon him in Ap<g ref="char:EOLhyphen"/>probation of his worth. Which fragrant fate if I ſhould ſuſtaine, what is there more to make me enamour'd of death, but that the ſame floriſt ſhould ſtrew my
+<pb n="14" facs="tcp:153442:8"/>
+corps in a funeral Oration? Could you think my Lord that ſuppreſ<g ref="char:EOLhyphen"/>ſing your name was able to con<g ref="char:EOLhyphen"/>ceale you, when it is ſo eaſie to winde you by your phraſe? The ſweetneſſe of the language diſ<g ref="char:EOLhyphen"/>covered the Author, like that <hi>Ro<g ref="char:EOLhyphen"/>man</hi> ſenatour who hiding himſelf in time of proſcription, his per<g ref="char:EOLhyphen"/>fumes betraied him. But I ſhall not arreſt your Lordſhips affaires with a further interruption, my Lord you have ennobled me with your teſtimony, and I ſhall keepe your paper as the patent of mine honour, yet give me leave to tell; you that among all the Epithets you pil'd ſo artificially to build me
+<pb n="15" facs="tcp:153442:8"/>
+fame, there is one wanting to ac<g ref="char:EOLhyphen"/>compliſh my ambition, and which I beſeech your Lordſhip I may enjoy for the future; that is, to be eſteemed.</p>
+            <closer>
+               <signed>Your Honours humble Servant, <hi>Jo: Cleaveland.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
